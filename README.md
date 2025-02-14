@@ -5,7 +5,7 @@ Welcome to **SQL Translator**, an open-source tool designed to simplify SQL (Str
 
 <br>
 <div align="center">
-    <img src="C:\Users\vishw\Downloads\portfolio projects\sql-translator\UI.png" width="600" />
+    <img src="https://github.com/Vishukk1503/OpenAi-SQL-Translator/blob/main/UI.png" width="600" />
 </div>
 
 
